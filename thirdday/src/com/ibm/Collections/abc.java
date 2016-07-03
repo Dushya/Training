@@ -3,7 +3,7 @@ package com.ibm.Collections;
 class abc
 {
        public void display()
-          {System.out.println("welcome");
+          {System.out.println("welcome to ibm");
           }
 }
 
